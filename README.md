@@ -1,5 +1,5 @@
-## About Harambee
-Harambee *(swahili word for "all pull together")* script allows you to effortlessly launch a crowdfunding platform where users can create unlimited campaigns to help those in need or raise funds for community projects. Its based on laravel 10 PHP framework.
+## About Changisha
+Changisha *(swahili word for "fundraise")* script allows you to effortlessly launch a crowdfunding platform where users can create unlimited campaigns to help those in need or raise funds for community projects. Its based on laravel 10 PHP framework.
 
 ## Features:
 Enjoy advanced application features which include but not limited to:
